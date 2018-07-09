@@ -28,7 +28,7 @@
     "nwb": "0.21.x",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "ts-loader": "^4.4.2",
+    "ts-loader": "3.5.0",
     "typescript": "^2.9.2"
   },
   "author": "",
